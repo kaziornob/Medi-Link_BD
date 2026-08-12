@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import '../../../core/constants.dart';
 
 class VideoCallScreen extends StatelessWidget {
   const VideoCallScreen({super.key});

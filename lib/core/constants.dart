@@ -22,7 +22,7 @@ class AppColors {
 }
 
 class AppStrings {
-  static const String appName = "MediLink BD";
+  static const String appName = "Sheba24";
   static const String login = "Login";
   static const String register = "Register";
   static const String patient = "Patient";
